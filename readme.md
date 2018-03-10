@@ -1,2 +1,2 @@
-npm install
-npm run prod
+* npm install
+* npm run prod
